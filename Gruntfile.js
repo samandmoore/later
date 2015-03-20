@@ -36,5 +36,5 @@ module.exports = function(grunt) {
     }
   });
 
-  grunt.registerTask('default', ['webpack', 'watch']);
+  grunt.registerTask('default', ['webpack:dev', 'watch']);
 }
