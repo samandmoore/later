@@ -1,0 +1,11 @@
+{
+  "name": "later",
+  "version": "0.0.0",
+  "description": "retail frontend testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "author": "",
+  "license": "MIT"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "later",
+  "version": "0.0.0",
+  "authors": [
+    "Sam Moore <samandmoore@gmail.com>"
+  ],
+  "moduleType": [
+    "es6",
+    "globals"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
